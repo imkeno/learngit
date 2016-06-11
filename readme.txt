@@ -4,3 +4,4 @@ Creating a new branch is quick.
 master branch do work!
 dev branch do work!
 add merge
+dev add
