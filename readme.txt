@@ -1,4 +1,6 @@
 git is a distributed version control system.
-Git is free software distributed under the GPL.
+git is free software distributed under the GPL.
 Creating a new branch is quick.
 master branch do work!
+dev branch do work!
+
